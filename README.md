@@ -1,3 +1,7 @@
+# Vue3 설치
+- npm i vue@next
+- npm i -D vue-loader@next vue-style-loader @vue/compiler-sfc
+
 # Webpack 기본 템플릿
 
 __webpack__: 모듈(패키지) 번들러의 핵심 패키지<br>
